@@ -1,0 +1,17 @@
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\bin\Debug\Lection2_1.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\bin\Debug\Lection2_1.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\bin\Debug\Lection2_1.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1_typeValues.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1.g.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_1\Lection2_1\obj\Debug\Lection2_1_typeValues.csproj.GenerateResource.Cache
+D:\SoftTheme\CSharpHW\Lection 2\Lection2_1_typeValues\Lection2_1\bin\Debug\Lection2_1.exe.config
+D:\SoftTheme\CSharpHW\Lection 2\Lection2_1_typeValues\Lection2_1\obj\Debug\Lection2_1.exe
+D:\SoftTheme\CSharpHW\Lection 2\Lection2_1_typeValues\Lection2_1\obj\Debug\Lection2_1.pdb

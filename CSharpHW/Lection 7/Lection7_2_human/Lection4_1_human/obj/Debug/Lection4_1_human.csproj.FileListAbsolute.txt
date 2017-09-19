@@ -1,0 +1,13 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection4_1_human\bin\Debug\Lection4_1_human.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\bin\Debug\Lection4_1_human.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\bin\Debug\Lection4_1_human.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\bin\Debug\Lection4_1_human.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\obj\Debug\Lection4_1_human.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\obj\Debug\Lection4_1_human.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_human\Lection4_1_human\obj\Debug\Lection4_1_human.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\bin\Debug\Lection4_1_human.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\obj\Debug\Lection4_1_human.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\obj\Debug\Lection4_1_human.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\bin\Debug\Lection4_1_human.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\bin\Debug\Lection4_1_human.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_2_human\Lection4_1_human\obj\Debug\Lection4_1_human.csprojResolveAssemblyReference.cache

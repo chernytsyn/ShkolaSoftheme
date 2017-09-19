@@ -1,0 +1,6 @@
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\bin\Debug\HW.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\bin\Debug\HW.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\bin\Debug\HW.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\obj\Debug\HW.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 1\HW\obj\Debug\HW.pdb

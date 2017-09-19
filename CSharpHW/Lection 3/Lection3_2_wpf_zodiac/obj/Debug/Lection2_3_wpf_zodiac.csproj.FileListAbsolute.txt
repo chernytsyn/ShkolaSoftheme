@@ -1,0 +1,17 @@
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\bin\Debug\Lection2_3_wpf_zodiac.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\bin\Debug\Lection2_3_wpf_zodiac.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\bin\Debug\Lection2_3_wpf_zodiac.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.g.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.csproj.GenerateResource.Cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_4_wpf_zodiac\bin\Debug\Lection2_3_wpf_zodiac.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_4_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_4_wpf_zodiac\obj\Debug\Lection2_3_wpf_zodiac.pdb

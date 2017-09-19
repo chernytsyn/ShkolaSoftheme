@@ -1,0 +1,28 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.exe.config
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.pdb
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\App.g.cs
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm_MarkupCompile.cache
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm_MarkupCompile.lref
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\MainWindow.baml
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.g.resources
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.Properties.Resources.resources
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.csproj.GenerateResource.Cache
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\bin\Debug\Lection3_1_registerForm.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.g.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_1_registerForm\Lection3_1_registerForm\obj\Debug\Lection3_1_registerForm.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.exe.config
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.pdb
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 2\Lection2_3_zodiac\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 3\Lection3_1_zodiac\Lection2_3_zodiac\bin\Debug\Lection2_3_zodiac.exe.config
+D:\SoftTheme\CSharpHW\Lection 3\Lection3_1_zodiac\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.exe
+D:\SoftTheme\CSharpHW\Lection 3\Lection3_1_zodiac\Lection2_3_zodiac\obj\Debug\Lection2_3_zodiac.pdb

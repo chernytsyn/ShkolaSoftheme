@@ -1,0 +1,3 @@
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_1_ref_value_types\bin\Debug\Lection8.exe.config
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_1_ref_value_types\obj\Debug\Lection8.exe
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_1_ref_value_types\obj\Debug\Lection8.pdb

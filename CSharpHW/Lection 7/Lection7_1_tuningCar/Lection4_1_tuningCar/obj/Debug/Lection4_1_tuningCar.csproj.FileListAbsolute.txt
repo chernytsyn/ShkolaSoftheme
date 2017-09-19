@@ -1,0 +1,16 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_1_tuningCar\Lection4_1_tuningCar\bin\Debug\Lection4_1_tuningCar.exe.config
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.exe
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_1_tuningCar\Lection4_1_tuningCar\obj\Debug\Lection4_1_tuningCar.pdb

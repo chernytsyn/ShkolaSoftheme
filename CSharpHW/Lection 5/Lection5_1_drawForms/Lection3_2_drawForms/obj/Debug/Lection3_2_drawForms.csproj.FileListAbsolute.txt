@@ -1,0 +1,5 @@
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_drawForms\Lection3_2_drawForms\bin\Debug\Lection3_2_drawForms.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_drawForms\Lection3_2_drawForms\bin\Debug\Lection3_2_drawForms.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_drawForms\Lection3_2_drawForms\bin\Debug\Lection3_2_drawForms.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_drawForms\Lection3_2_drawForms\obj\Debug\Lection3_2_drawForms.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_drawForms\Lection3_2_drawForms\obj\Debug\Lection3_2_drawForms.pdb

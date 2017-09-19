@@ -1,0 +1,15 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection3_2_managing_exceptions\bin\Debug\Lection3_2_managing_exceptions.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\bin\Debug\Lection3_2_managing_exceptions.exe.config
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\bin\Debug\Lection3_2_managing_exceptions.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\bin\Debug\Lection3_2_managing_exceptions.pdb
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.g.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.csproj.GenerateResource.Cache
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.exe
+C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 3\Lection3_2_managing_exceptions\Lection3_2_managing_exceptions\obj\Debug\Lection3_2_managing_exceptions.pdb

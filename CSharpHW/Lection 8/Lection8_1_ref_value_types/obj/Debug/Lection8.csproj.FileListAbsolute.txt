@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Lection8\Lection8\obj\Debug\Lection8.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Lection8\Lection8\obj\Debug\Lection8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lection8\Lection8\bin\Debug\Lection8.exe.config
+C:\Users\1\source\repos\Lection8\Lection8\bin\Debug\Lection8.exe
+C:\Users\1\source\repos\Lection8\Lection8\bin\Debug\Lection8.pdb
+C:\Users\1\source\repos\Lection8\Lection8\obj\Debug\Lection8.exe
+C:\Users\1\source\repos\Lection8\Lection8\obj\Debug\Lection8.pdb
