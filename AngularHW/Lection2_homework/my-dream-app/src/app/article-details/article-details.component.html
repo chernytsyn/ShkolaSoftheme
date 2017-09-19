@@ -1,0 +1,15 @@
+<div class="showArticle">
+  <label><b>Id:</b></label> {{id}}
+  <div *ngIf="heading">
+    <p><b>Heading:</b> {{heading}}</p>
+  </div>
+  <p (click)='changeColor()' [style.color]='color'><b>Title:</b>{{title}}</p>
+  <p>
+    <i>
+      <b>Short description:</b> {{shortDescription}}
+      <p><b>Enter new heading for your title: </b><input [(ngModel)]="heading"></p>
+      <p>{{color}}</p>
+    </i>
+  </p>
+</div>
+
