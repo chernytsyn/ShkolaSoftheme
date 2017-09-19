@@ -22,9 +22,7 @@ namespace Lection4_3_shapes
 
         public ShapeDescriptor()
         {
-            var p = new Point(1,1);
-            Point[] ps = new Point[1];
-            ps[0] = p;
+            Point[] ps = new Point[] { new Point(1,1)};
             this.Points = ps;
             this.ShapeType = "Point";
         }
@@ -42,8 +40,7 @@ namespace Lection4_3_shapes
 
         public ShapeDescriptor(Point p, string shapeType)
         {
-            Point[] ps = new Point[1];
-            ps[0] = p;
+            Point[] ps = new Point[] { new Point(1,1)};
             this.Points = ps;
             this.ShapeType = shapeType;
         }
