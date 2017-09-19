@@ -4,3 +4,6 @@ C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\L
 C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_3_shapes\Lection4_3_shapes\bin\Debug\Lection4_3_shapes.pdb
 C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_3_shapes\Lection4_3_shapes\obj\Debug\Lection4_3_shapes.exe
 C:\Users\Владислав\Desktop\Учеба SoftTheme\c#\CSharpHW\Lection 4\Lection4_3_shapes\Lection4_3_shapes\obj\Debug\Lection4_3_shapes.pdb
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_3_shapes\Lection4_3_shapes\bin\Debug\Lection4_3_shapes.exe.config
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_3_shapes\Lection4_3_shapes\obj\Debug\Lection4_3_shapes.exe
+D:\SoftTheme\CSharpHW\Lection 7\Lection7_3_shapes\Lection4_3_shapes\obj\Debug\Lection4_3_shapes.pdb
