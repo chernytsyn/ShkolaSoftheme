@@ -3,13 +3,15 @@
   <div *ngIf="heading">
     <p><b>Heading:</b> {{heading}}</p>
   </div>
-  <p (click)='changeColor()' [style.color]='color'><b>Title:</b>{{title}}</p>
+  <div *ngFor="let article of articles">
+  <p (click)='changeColor()' [style.color]='color'><b>Title:</b>{{article.title}}</p>
   <p>
     <i>
-      <b>Short description:</b> {{shortDescription}}
+      <b>Short description:</b> {{article.shortDescription}}
       <p><b>Enter new heading for your title: </b><input [(ngModel)]="heading"></p>
-      <p>{{color}}</p>
+      <p>{{article.color}}</p>
     </i>
   </p>
+  </div>
 </div>
 
