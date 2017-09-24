@@ -1,0 +1,8 @@
+D:\Dropbox\CSharp_SBS\Lections\Part3_Extensible_types_C#\17_Collections_Iterator\Demo\Iterator\Iterator\bin\Debug\Iterator.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part3_Extensible_types_C#\17_Collections_Iterator\Demo\01_Iterator\Iterator\bin\Debug\Iterator.exe.config
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\bin\Debug\Iterator.exe.config
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\bin\Debug\Iterator.exe
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\obj\Debug\Iterator.exe
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Iterator\obj\Debug\Iterator.pdb

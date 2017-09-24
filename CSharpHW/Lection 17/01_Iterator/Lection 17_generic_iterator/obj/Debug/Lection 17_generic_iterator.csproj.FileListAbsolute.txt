@@ -1,0 +1,6 @@
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\bin\Debug\Lection 17_generic_iterator.exe.config
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\bin\Debug\Lection 17_generic_iterator.exe
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\bin\Debug\Lection 17_generic_iterator.pdb
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\obj\Debug\Lection 17_generic_iterator.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\obj\Debug\Lection 17_generic_iterator.exe
+D:\SoftTheme\CSharpHW\Lection 17\01_Iterator\Lection 17_generic_iterator\obj\Debug\Lection 17_generic_iterator.pdb

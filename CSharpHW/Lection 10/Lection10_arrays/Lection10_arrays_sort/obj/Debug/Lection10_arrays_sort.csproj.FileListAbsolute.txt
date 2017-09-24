@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.exe.config
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.exe
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.pdb
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.exe
+C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.pdb
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.exe.config
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.exe
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.pdb
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.exe
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\bin\Debug\Lection10_arrays_sort.pdb
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays_sort\obj\Debug\Lection10_arrays_sort.csprojResolveAssemblyReference.cache

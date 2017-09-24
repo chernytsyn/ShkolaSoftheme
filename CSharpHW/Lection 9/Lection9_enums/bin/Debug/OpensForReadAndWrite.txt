@@ -1,0 +1,1 @@
+This is file without readOnly property. (Made by Chernytsyn Vladyslav).

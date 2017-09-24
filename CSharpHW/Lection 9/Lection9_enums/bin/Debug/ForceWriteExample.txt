@@ -1,0 +1,1 @@
+This is file with readOnly property. You could change it with using OpenFile(true). (Made by Chernytsyn Vladyslav).

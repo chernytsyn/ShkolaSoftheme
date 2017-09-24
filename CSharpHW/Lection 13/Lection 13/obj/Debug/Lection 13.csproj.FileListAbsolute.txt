@@ -1,0 +1,7 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection 13\bin\Debug\Lection 13.exe.config
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\bin\Debug\Lection 13.exe.config
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\bin\Debug\Lection 13.exe
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\bin\Debug\Lection 13.pdb
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\obj\Debug\Lection 13.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\obj\Debug\Lection 13.exe
+D:\SoftTheme\CSharpHW\Lection 13\Lection 13\obj\Debug\Lection 13.pdb

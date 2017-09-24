@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lection 11", "Lection 11.csproj", "{D026A8AD-7BBF-47F3-8155-F8679A1BCEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lection_11_addition_methods", "..\Lection_11_addition_methods\Lection_11_addition_methods.csproj", "{E2007202-8290-4B8B-9B9B-FFB9D88F8271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D026A8AD-7BBF-47F3-8155-F8679A1BCEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D026A8AD-7BBF-47F3-8155-F8679A1BCEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D026A8AD-7BBF-47F3-8155-F8679A1BCEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D026A8AD-7BBF-47F3-8155-F8679A1BCEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2007202-8290-4B8B-9B9B-FFB9D88F8271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2007202-8290-4B8B-9B9B-FFB9D88F8271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2007202-8290-4B8B-9B9B-FFB9D88F8271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2007202-8290-4B8B-9B9B-FFB9D88F8271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

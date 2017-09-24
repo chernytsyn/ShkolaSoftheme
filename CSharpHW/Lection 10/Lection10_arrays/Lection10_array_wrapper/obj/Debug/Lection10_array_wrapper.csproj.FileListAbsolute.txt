@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\bin\Debug\Lection10_array_wrapper.exe.config
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\bin\Debug\Lection10_array_wrapper.exe
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\bin\Debug\Lection10_array_wrapper.pdb
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\obj\Debug\Lection10_array_wrapper.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\obj\Debug\Lection10_array_wrapper.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\obj\Debug\Lection10_array_wrapper.exe
+C:\Users\1\source\repos\Lection10_arrays\Lection10_array_wrapper\obj\Debug\Lection10_array_wrapper.pdb
