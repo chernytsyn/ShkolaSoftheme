@@ -1,26 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Lection8
 {
     struct UserStruct
     {
-        private string name;
-        private string surname;
-        private decimal salary;
-        private string email;
-        private DateTime applymentsDate;
+        private string _name;
+        private string _surname;
+        private decimal _salary;
+        private string _email;
+        private DateTime _applymentsDate;
 
         public UserStruct(string name, string surname, decimal salary, string email, DateTime applyDate)
         {
-            this.name = name;
-            this.surname = surname;
-            this.salary = salary;
-            this.email = email;
-            this.applymentsDate = applyDate;
+            this._name = name;
+            this._surname = surname;
+            this._salary = salary;
+            this._email = email;
+            this._applymentsDate = applyDate;
         }
 
         public void ChangeSalary()
@@ -28,7 +24,7 @@ namespace Lection8
             Console.WriteLine("Enter new salary");
             try
             {
-                this.salary = Convert.ToDecimal(Console.ReadLine());
+                this._salary = Convert.ToDecimal(Console.ReadLine());
             }
             catch (InvalidCastException)
             {
@@ -42,32 +38,32 @@ namespace Lection8
 
         public void PrintUser()
         {
-            Console.WriteLine($"{this.name} {this.surname}, salary = {this.salary} \n" +
-                              $"user email: {this.email}, applyDate:" + String.Format(String.Format("{0:MM/dd/yyyy}", this.applymentsDate)) + "\n");
+            Console.WriteLine($"{this._name} {this._surname}, salary = {this._salary} \n" +
+                              $"user email: {this._email}, applyDate:" + String.Format(String.Format("{0:MM/dd/yyyy}", this._applymentsDate)) + "\n");
             Console.ReadKey();
         }
 
         public static UserStruct Clone(UserStruct obj)
         {
-            var tempUser = new UserStruct(obj.name, obj.surname, obj.salary, obj.email, obj.applymentsDate);
+            var tempUser = new UserStruct(obj._name, obj._surname, obj._salary, obj._email, obj._applymentsDate);
             return tempUser;
         }
 
         public bool Equals(UserStruct obj)
         {
-            if (this.name != obj.name)
+            if (this._name != obj._name)
                 return false;
 
-            if (this.surname != obj.surname)
+            if (this._surname != obj._surname)
                 return false;
 
-            if (this.salary != obj.salary)
+            if (this._salary != obj._salary)
                 return false;
 
-            if (this.email != obj.email)
+            if (this._email != obj._email)
                 return false;
 
-            if (this.applymentsDate != obj.applymentsDate)
+            if (this._applymentsDate != obj._applymentsDate)
                 return false;
 
             return true;

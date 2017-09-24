@@ -11,3 +11,9 @@ D:\SoftTheme\CSharpHW\Lection 9_enums - todo\Lection9_enums\obj\Debug\Lection9_e
 D:\SoftTheme\CSharpHW\Lection 9_enums - todo\Lection9_enums\bin\Debug\Lection9_enums.exe
 D:\SoftTheme\CSharpHW\Lection 9_enums - todo\Lection9_enums\bin\Debug\Lection9_enums.pdb
 D:\SoftTheme\CSharpHW\Lection 9_enums - todo\Lection9_enums\obj\Debug\Lection9_enums.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\bin\Debug\Lection9_enums.exe.config
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\obj\Debug\Lection9_enums.exe
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\obj\Debug\Lection9_enums.pdb
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\bin\Debug\Lection9_enums.exe
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\bin\Debug\Lection9_enums.pdb
+D:\SoftTheme\CSharpHW\Lection 9\Lection9_enums\obj\Debug\Lection9_enums.csprojResolveAssemblyReference.cache

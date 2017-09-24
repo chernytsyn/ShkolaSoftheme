@@ -1,54 +1,49 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.SqlServer.Server;
 
 namespace Lection8
 {
     class UserRef
     {
-        private string name;
-        private string surname;
-        private decimal salary;
-        private string email;
-        private DateTime applymentsDate;
+        private string _name;
+        private string _surname;
+        private decimal _salary;
+        private string _email;
+        private DateTime _applymentsDate;
 
         public UserRef()
         {
             Console.WriteLine("Enter your name");
-            this.name = Console.ReadLine();
+            this._name = Console.ReadLine();
 
             Console.WriteLine("Enter your surname");
-            this.surname = Console.ReadLine();
+            this._surname = Console.ReadLine();
 
             try
             {
                 Console.WriteLine("Enter your salary");
-                this.salary = Convert.ToDecimal(Console.ReadLine());
+                this._salary = Convert.ToDecimal(Console.ReadLine());
             }
             catch (Exception)
             {
                 Console.WriteLine("Invalid value, default 0 salary was sumbitted");
-                this.salary = default(decimal);
+                this._salary = default(decimal);
             }
 
             Console.WriteLine("Enter your email");
-            this.email = Console.ReadLine();
+            this._email = Console.ReadLine();
 
-            this.applymentsDate = DateTime.Today;
+            this._applymentsDate = DateTime.Today;
 
         }
 
 
         public UserRef(string name, string surname, decimal salary, string email, DateTime applyDate)
         {
-            this.name = name;
-            this.surname = surname;
-            this.salary = salary;
-            this.email = email;
-            this.applymentsDate = applyDate;
+            this._name = name;
+            this._surname = surname;
+            this._salary = salary;
+            this._email = email;
+            this._applymentsDate = applyDate;
         }
 
         public void ChangeSalary()
@@ -56,7 +51,7 @@ namespace Lection8
             Console.WriteLine("Enter new salary");
             try
             {
-                this.salary = Convert.ToDecimal(Console.ReadLine());
+                this._salary = Convert.ToDecimal(Console.ReadLine());
             }
             catch (InvalidCastException)
             {
@@ -70,32 +65,32 @@ namespace Lection8
 
         public static UserRef Clone(UserRef obj)
         {
-            var tempUser = new UserRef(obj.name,obj.surname,obj.salary,obj.email,obj.applymentsDate);
+            var tempUser = new UserRef(obj._name, obj._surname, obj._salary, obj._email, obj._applymentsDate);
             return tempUser;
         }
 
         public void PrintUser()
         {
-            Console.WriteLine($"{this.name} {this.surname}, salary = {this.salary} \n" +
-                              $"user email: {this.email}, applyDate:" + String.Format(String.Format("{0:MM/dd/yyyy}", this.applymentsDate)) + "\n");
+            Console.WriteLine($"{this._name} {this._surname}, salary = {this._salary} \n" +
+                              $"user email: {this._email}, applyDate:" + String.Format(String.Format("{0:MM/dd/yyyy}", this._applymentsDate)) + "\n");
             Console.ReadKey();
         }
 
         public bool Equals(UserRef obj)
         {
-            if (this.name != obj.name)
+            if (this._name != obj._name)
                 return false;
 
-            if (this.surname != obj.surname)
+            if (this._surname != obj._surname)
                 return false;
 
-            if (this.salary != obj.salary)
+            if (this._salary != obj._salary)
                 return false;
 
-            if (this.email != obj.email)
+            if (this._email != obj._email)
                 return false;
 
-            if (this.applymentsDate != obj.applymentsDate)
+            if (this._applymentsDate != obj._applymentsDate)
                 return false;
 
             return true;

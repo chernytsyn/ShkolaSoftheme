@@ -9,3 +9,4 @@ D:\SoftTheme\CSharpHW\Lection 11\Lection 11\obj\Debug\Lection 11.exe
 D:\SoftTheme\CSharpHW\Lection 11\Lection 11\obj\Debug\Lection 11.pdb
 D:\SoftTheme\CSharpHW\Lection 11\Lection 11\bin\Debug\Lection 11.exe
 D:\SoftTheme\CSharpHW\Lection 11\Lection 11\bin\Debug\Lection 11.pdb
+D:\SoftTheme\CSharpHW\Lection 11\Lection 11\obj\Debug\Lection 11.csprojResolveAssemblyReference.cache

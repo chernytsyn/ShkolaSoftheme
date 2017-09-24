@@ -5,3 +5,9 @@ C:\Users\1\source\repos\Lection8\CarsBuilder\obj\Debug\Lection8_CarsBuilder.cspr
 C:\Users\1\source\repos\Lection8\CarsBuilder\obj\Debug\Lection8_CarsBuilder.csproj.CoreCompileInputs.cache
 C:\Users\1\source\repos\Lection8\CarsBuilder\obj\Debug\CarsBuilder.exe
 C:\Users\1\source\repos\Lection8\CarsBuilder\obj\Debug\CarsBuilder.pdb
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\bin\Debug\CarsBuilder.exe.config
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\obj\Debug\CarsBuilder.exe
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\obj\Debug\CarsBuilder.pdb
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\bin\Debug\CarsBuilder.exe
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\bin\Debug\CarsBuilder.pdb
+D:\SoftTheme\CSharpHW\Lection 8\Lection8_2_CarsBuilder\obj\Debug\Lection8_CarsBuilder.csprojResolveAssemblyReference.cache

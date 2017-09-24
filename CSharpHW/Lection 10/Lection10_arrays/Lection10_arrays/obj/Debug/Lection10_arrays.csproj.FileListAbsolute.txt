@@ -8,3 +8,6 @@ C:\Users\1\source\repos\Lection10_arrays\Lection10_arrays\obj\Debug\Lection10_ar
 D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\bin\Debug\Lection10_arrays.exe.config
 D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\obj\Debug\Lection10_arrays.exe
 D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\obj\Debug\Lection10_arrays.pdb
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\bin\Debug\Lection10_arrays.exe
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\bin\Debug\Lection10_arrays.pdb
+D:\SoftTheme\CSharpHW\Lection 10\Lection10_arrays\Lection10_arrays\obj\Debug\Lection10_arrays.csprojResolveAssemblyReference.cache

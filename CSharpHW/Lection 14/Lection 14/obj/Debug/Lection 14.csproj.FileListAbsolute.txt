@@ -7,3 +7,6 @@ C:\Users\Владислав\AppData\Local\Temporary Projects\Lection 14\obj\Debu
 D:\SoftTheme\CSharpHW\Lection 14\Lection 14\bin\Debug\Lection 14.exe.config
 D:\SoftTheme\CSharpHW\Lection 14\Lection 14\obj\Debug\Lection 14.exe
 D:\SoftTheme\CSharpHW\Lection 14\Lection 14\obj\Debug\Lection 14.pdb
+D:\SoftTheme\CSharpHW\Lection 14\Lection 14\bin\Debug\Lection 14.exe
+D:\SoftTheme\CSharpHW\Lection 14\Lection 14\bin\Debug\Lection 14.pdb
+D:\SoftTheme\CSharpHW\Lection 14\Lection 14\obj\Debug\Lection 14.csprojResolveAssemblyReference.cache

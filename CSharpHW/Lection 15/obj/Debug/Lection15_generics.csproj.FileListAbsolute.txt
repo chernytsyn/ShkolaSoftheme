@@ -12,3 +12,9 @@ C:\Users\1\source\repos\Lection15_generics\obj\Debug\Lection15_generics.csprojRe
 C:\Users\1\source\repos\Lection15_generics\obj\Debug\Lection15_generics.csproj.CoreCompileInputs.cache
 C:\Users\1\source\repos\Lection15_generics\obj\Debug\Lection15_generics.exe
 C:\Users\1\source\repos\Lection15_generics\obj\Debug\Lection15_generics.pdb
+D:\SoftTheme\CSharpHW\Lection 15\bin\Debug\Lection15_generics.exe.config
+D:\SoftTheme\CSharpHW\Lection 15\obj\Debug\Lection15_generics.exe
+D:\SoftTheme\CSharpHW\Lection 15\obj\Debug\Lection15_generics.pdb
+D:\SoftTheme\CSharpHW\Lection 15\bin\Debug\Lection15_generics.exe
+D:\SoftTheme\CSharpHW\Lection 15\bin\Debug\Lection15_generics.pdb
+D:\SoftTheme\CSharpHW\Lection 15\obj\Debug\Lection15_generics.csprojResolveAssemblyReference.cache
