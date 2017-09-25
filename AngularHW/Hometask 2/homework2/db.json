@@ -1,0 +1,13 @@
+{
+	"books": [
+		{"id":1, "name":"Анна Каренина","size":"10000","author":"Толстой", "imageUrl":"http://knijky.ru/sites/default/files/styles/264x390/public/lev_tolstoj_anna_karenina.jpg?itok=pGJ3XFRO"},
+		{"id":2, "name":"Клеопатра","size":"25000","author":"Генри Райдер Хаггард","imageUrl":"https://royallib.com/data/images/207/cover_207497.jpg"},
+		{"id":3, "name":"50 оттенков серого","size":"45000","author":"Э.Л.Джеймс","imageUrl":"http://booksread.ru/wp-content/uploads/2015/12/50-ottenkov-serogo.jpg"}
+	],
+  "favorite-books": [
+    {"id":1, "title":"Анна Каренина"},
+    {"id":2,"title":"Клеопатра"},
+    {"id":3,"title":"C# via CLR"},
+    {"id":4,"title":"Step by step for c# developer"}
+  ]
+}
