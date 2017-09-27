@@ -1,0 +1,17 @@
+h3 {
+    margin-left:50px;
+    text-align: center;
+    display: inline-block;
+}
+.favoriteBooks ul {
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.favoriteBooks label {
+    color:sienna;
+}
+.favoriteBooks li {
+    color:black;
+    margin-left:20px;
+    font-weight: bold;
+}

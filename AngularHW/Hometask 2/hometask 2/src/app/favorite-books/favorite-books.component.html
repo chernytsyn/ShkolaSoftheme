@@ -1,0 +1,12 @@
+<h3>Favorite-books:</h3>
+<div class="favoriteBooks" *ngFor="let favBook of favBooks$ | async">
+     <ul>
+       <li>
+          <label>id:</label>{{favBook.id}}
+       </li>
+       <li>
+         <label>title:</label>{{favBook.title}}
+        </li>
+     </ul>
+
+</div>
