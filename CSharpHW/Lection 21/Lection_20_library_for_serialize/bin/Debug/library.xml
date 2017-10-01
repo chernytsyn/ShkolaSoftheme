@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Books>
+    <Book>
+      <Name>123</Name>
+      <Author>123</Author>
+      <Year>2017</Year>
+      <Genre>Comics</Genre>
+    </Book>
+  </Books>
+  <Users>
+    <User>
+      <Name>vlad</Name>
+      <Password>1234</Password>
+      <Phone>111-11-11</Phone>
+      <Email>test@gmail.com</Email>
+      <UserRights>admin</UserRights>
+      <BorrowedBooks />
+    </User>
+  </Users>
+</Library>

@@ -1,0 +1,8 @@
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\bin\Debug\Lection_20_library.exe.config
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\obj\Debug\Lection_20_library.exe
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\obj\Debug\Lection_20_library.pdb
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\bin\Debug\Lection_20_library.exe
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\bin\Debug\Lection_20_library.pdb
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\bin\Debug\protobuf-net.dll
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\bin\Debug\protobuf-net.xml
+D:\SoftTheme\CSharpHW\Lection 21\Lection_20_library_for_serialize_protobuf\obj\Debug\Lection_20_library_protobuf.csprojResolveAssemblyReference.cache

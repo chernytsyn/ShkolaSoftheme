@@ -1,0 +1,7 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_20_library\bin\Debug\Lection_20_library.exe.config
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\bin\Debug\Lection_20_library.exe.config
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\bin\Debug\Lection_20_library.exe
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\bin\Debug\Lection_20_library.pdb
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\obj\Debug\Lection_20_library.csprojResolveAssemblyReference.cache
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\obj\Debug\Lection_20_library.exe
+D:\SoftTheme\CSharpHW\Lection 20\Lection_20_library\obj\Debug\Lection_20_library.pdb
