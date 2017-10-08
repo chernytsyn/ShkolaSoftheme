@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lection_26_subStringChanger.LogFile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection_26_subStringChanger"
+        mc:Ignorable="d"
+        Title="LogFile" Height="450" Width="1000">
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="400" Width="972" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Binding="{Binding TimeOfChange}" Width="70"/>
+                <DataGridTextColumn Header="Path" Binding="{Binding Path}" Width="470"/>
+                <DataGridTextColumn Header="LineNumber" Binding="{Binding LineNumber}" Width="80"/>
+                <DataGridTextColumn Header="PreviousValue" Binding="{Binding PreviousValue}" Width="*"/>
+                <DataGridTextColumn Header="NewValue" Binding="{Binding NewValue}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

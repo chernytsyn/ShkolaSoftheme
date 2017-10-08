@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Books>
+    <Book>
+      <Name>Spider-Man #1</Name>
+      <Author>Stan Lee</Author>
+      <Year>1963</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #2</Name>
+      <Author>Stan Lee</Author>
+      <Year>1965</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #3</Name>
+      <Author>Stan Lee</Author>
+      <Year>1966</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #4</Name>
+      <Author>Stan Lee</Author>
+      <Year>1967</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #5</Name>
+      <Author>Stan Lee</Author>
+      <Year>1968</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #6</Name>
+      <Author>Stan Lee</Author>
+      <Year>1969</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #7</Name>
+      <Author>Stan Lee</Author>
+      <Year>1970</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #8</Name>
+      <Author>Stan Lee</Author>
+      <Year>1971</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #9</Name>
+      <Author>Stan Lee</Author>
+      <Year>1972</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #10</Name>
+      <Author>Stan Lee</Author>
+      <Year>1973</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #11</Name>
+      <Author>Stan Lee</Author>
+      <Year>1974</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #12</Name>
+      <Author>Stan Lee</Author>
+      <Year>1975</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #13</Name>
+      <Author>Stan Lee</Author>
+      <Year>1976</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #14</Name>
+      <Author>Stan Lee</Author>
+      <Year>1977</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #15</Name>
+      <Author>Stan Lee</Author>
+      <Year>1978</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #16</Name>
+      <Author>Stan Lee</Author>
+      <Year>1979</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #17</Name>
+      <Author>Stan Lee</Author>
+      <Year>1980</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #18</Name>
+      <Author>Stan Lee</Author>
+      <Year>1981</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #19</Name>
+      <Author>Stan Lee</Author>
+      <Year>1982</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #20</Name>
+      <Author>Stan Lee</Author>
+      <Year>1983</Year>
+      <Genre>Comics</Genre>
+    </Book>
+    <Book>
+      <Name>Spider-Man #21</Name>
+      <Author>Stan Lee</Author>
+      <Year>1984</Year>
+      <Genre>Comics</Genre>
+    </Book>
+  </Books>
+  <Users>
+    <User>
+      <Name>Vladyslav Chernytsyn</Name>
+      <Password>1234</Password>
+      <Phone>111-11-11</Phone>
+      <Email>test@gmail.com</Email>
+      <UserRights>admin</UserRights>
+      <BorrowedBooks />
+    </User>
+  </Users>
+</Library>

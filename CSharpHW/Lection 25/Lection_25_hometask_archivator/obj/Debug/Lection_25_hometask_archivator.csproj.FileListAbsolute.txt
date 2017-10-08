@@ -1,0 +1,12 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.exe.config
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.pdb
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.exe
+C:\Users\Владислав\AppData\Local\Temporary Projects\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.pdb
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.exe.config
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.exe
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.pdb
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.exe
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\bin\Debug\Lection_25_hometask_archivator.pdb
+D:\SoftTheme\CSharpHW\Lection 25\Lection_25_hometask_archivator\obj\Debug\Lection_25_hometask_archivator.csprojResolveAssemblyReference.cache

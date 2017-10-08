@@ -1,0 +1,9 @@
+This 
+is
+testing file
+for replacing strings.
+
+test
+test
+123test123
+1test1
