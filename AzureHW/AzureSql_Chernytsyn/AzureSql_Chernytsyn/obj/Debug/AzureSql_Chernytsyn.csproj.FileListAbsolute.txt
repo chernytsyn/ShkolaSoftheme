@@ -1,0 +1,2 @@
+C:\Users\Владислав\AppData\Local\Temporary Projects\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.exe.config
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.exe.config
