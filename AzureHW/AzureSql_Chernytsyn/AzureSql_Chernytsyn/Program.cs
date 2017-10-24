@@ -10,6 +10,18 @@ namespace AzureSql_Chernytsyn
     {
         static void Main(string[] args)
         {
+            using (var context = new InternshipDB_ChernytsynEntities())
+            {
+                var students = context.Students;
+
+                foreach (Students s in students)
+                {
+                    Console.WriteLine($"ID:{s.StudentID}, Name:{s.StudentName}");
+                }
+            }
+
+            Console.ReadLine();
+            
         }
     }
 }

@@ -1,2 +1,12 @@
 C:\Users\Владислав\AppData\Local\Temporary Projects\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.exe.config
 D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.exe.config
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.exe
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\AzureSql_Chernytsyn.pdb
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\EntityFramework.dll
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\EntityFramework.xml
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\obj\Debug\AzureSql_Chernytsyn.csprojResolveAssemblyReference.cache
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\obj\Debug\AzureSql_Chernytsyn.csproj.CoreCompileInputs.cache
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\obj\Debug\AzureSql_Chernytsyn.exe
+D:\SoftTheme\AzureHW\AzureSql_Chernytsyn\AzureSql_Chernytsyn\obj\Debug\AzureSql_Chernytsyn.pdb
